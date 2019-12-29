@@ -25,7 +25,7 @@ There is 1 notebook available here to showcase my work related to the above ques
 
 ## Results
 
-The main findings of the code can be found at the post available [here](www.google.com).
+The main findings of the code can be found at the post available here.
 
 ## Licensing, Authors, Acknowledgements
 

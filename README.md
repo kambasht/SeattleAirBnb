@@ -25,7 +25,7 @@ There is 1 notebook available here to showcase my work related to the above ques
 
 ## Results
 
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available [here](https://medium.com/@karan.ambasht89/5-things-you-should-know-for-your-next-trip-to-seattle-d6f93a43eea3).
 
 ## Licensing, Authors, Acknowledgements
 
